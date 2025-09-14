@@ -1,4 +1,4 @@
-# Get_Hired
+# Get Hired
 
 ## 🚀 Overview
 
